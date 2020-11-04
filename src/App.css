@@ -1,38 +1,97 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.post {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  background-color: #F7F8FA;
+  border: 1px solid #E3E4E6;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.posts {
+  padding: 1% 1% 1% 1%;
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.post > div {
+  padding: 5%;
+}
+
+.post img {
+  width: 20%;
+  border-radius: 100%;
+  margin: 5%;
+}
+
+.type {
+  border-collapse: collapse;
+  background-color: #5E3DFF;
+  border-radius: 5px;
+  place-self: start;
+  margin: 7% 0 0 0;
   color: white;
+  font-weight: 900;
+  text-transform: capitalize;
+  font-size: 0.7rem;
 }
 
-.App-link {
-  color: #61dafb;
+.status {
+  border-collapse: collapse;
+  background-color: #5E3DFF;
+  border-radius: 5px;
+  place-self: start;
+  margin: 7% 0 0 0;
+  color: white;
+  font-weight: 900;
+  text-transform: capitalize;
+  font-size: 0.7rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.textData {
+  place-self: start;
+  margin: 5% 0 0 0;
+  font-size: 1rem;
+}
+
+div.future {
+  border-collapse: collapse;
+  background-color: #008CF2;
+  border-radius: 5px;
+  place-self: start;
+  margin: 7% 0 0 0;
+  color: white;
+  font-weight: 900;
+  text-transform: capitalize;
+  font-size: 0.7rem;
+}
+
+div.financial {
+  border-collapse: collapse;
+  background-color: #40DDAF;
+  border-radius: 5px;
+  place-self: start;
+  margin: 7% 0 0 0;
+  color: white;
+  font-weight: 900;
+  text-transform: capitalize;
+  font-size: 0.7rem;
+}
+
+div.authorization {
+  border-collapse: collapse;
+  background-color: #FF9742;
+  border-radius: 5px;
+  place-self: start;
+  margin: 7% 0 0 0;
+  color: white;
+  font-weight: 900;
+  text-transform: capitalize;
+  font-size: 0.7rem;
+}
+
+.post:hover {
+  background-color: #eeeeee;
 }
