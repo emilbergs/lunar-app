@@ -11,7 +11,7 @@ const SaveTransaction = ({ data, flagged }) => {
     })
     return (
         <div className="flagged">
-            <h4>Remove</h4>
+            <h4>Remove virker ikke ... men tracker data</h4>
             <div>
                 {saveTrans}
             </div>

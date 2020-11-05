@@ -15,7 +15,7 @@ class Search extends Component {
                     <input
                         type="text"
                         ref={(value) => { this.myValue = value }}
-                        placeholder="Type to filter..."
+                        placeholder="Filtrer transaktioner ..."
                         onChange={this.filterUpdate.bind(this)}
                     />
                 </form>
