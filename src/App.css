@@ -6,7 +6,7 @@
 
 .post {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(8, 1fr);
   background-color: #F7F8FA;
   border: 1px solid #E3E4E6;
 }
@@ -23,7 +23,7 @@
 .post img {
   width: 20%;
   border-radius: 100%;
-  margin: 5%;
+  margin: 6%;
 }
 
 .type {
@@ -31,7 +31,7 @@
   background-color: #5E3DFF;
   border-radius: 5px;
   place-self: start;
-  margin: 7% 0 0 0;
+  margin: 8% 0 0 0;
   color: white;
   font-weight: 900;
   text-transform: capitalize;
@@ -43,7 +43,7 @@
   background-color: #5E3DFF;
   border-radius: 5px;
   place-self: start;
-  margin: 7% 0 0 0;
+  margin: 10% 0% 0% 0%;
   color: white;
   font-weight: 900;
   text-transform: capitalize;
@@ -52,7 +52,7 @@
 
 .textData {
   place-self: start;
-  margin: 5% 0 0 0;
+  margin: 7% 0 0 0;
   font-size: 1rem;
 }
 
@@ -61,7 +61,7 @@ div.future {
   background-color: #008CF2;
   border-radius: 5px;
   place-self: start;
-  margin: 7% 0 0 0;
+  margin: 10% 0 0 0;
   color: white;
   font-weight: 900;
   text-transform: capitalize;
@@ -73,7 +73,7 @@ div.financial {
   background-color: #40DDAF;
   border-radius: 5px;
   place-self: start;
-  margin: 7% 0 0 0;
+  margin: 10% 0 0 0;
   color: white;
   font-weight: 900;
   text-transform: capitalize;
@@ -85,7 +85,7 @@ div.authorization {
   background-color: #FF9742;
   border-radius: 5px;
   place-self: start;
-  margin: 7% 0 0 0;
+  margin: 10% 0 0 0;
   color: white;
   font-weight: 900;
   text-transform: capitalize;
@@ -96,4 +96,10 @@ div.authorization {
   background-color: #eeeeee;
 }
 
-/* MAKE +1 GREEN -1 RED   */
+.binIcon {
+  display: none;
+}
+
+.post:hover img {
+  display: block;
+}

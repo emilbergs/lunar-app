@@ -21,6 +21,14 @@ class App extends Component {
     })
   }
 
+  addFlagged(id) {
+    const flagList = this.state.flagged.concat([id])
+    this.setState({
+      flagged: flagList
+    })
+  }
+
+
   render() {
 
     return (
@@ -35,6 +43,7 @@ class App extends Component {
           />
           <Transactions data={this.props.data}
             filterText={this.state.filterText}
+            addFlagged={this.addFlagged.bind(this)}
           />
           <Credit />
         </main>

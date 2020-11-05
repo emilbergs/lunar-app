@@ -1,6 +1,6 @@
 [
     {
-        "id": "0ed6c015-ea38-465e-9323-bafae969baea",
+        "id": "0",
         "type": "account",
         "iconURL": "https://s3-eu-west-1.amazonaws.com/lunarway-dev-cdn/pfm/category_other.png",
         "localizableTitle": "Transfer",
@@ -13,10 +13,11 @@
         "billingAmount": {
             "amount": -1,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
-        "id": "015c758d-81bc-4366-b16c-8518ac1fdb23",
+        "id": "1",
         "type": "account",
         "iconURL": "https://s3-eu-west-1.amazonaws.com/lunarway-dev-cdn/pfm/category_other.png",
         "localizableTitle": "Transfer",
@@ -29,7 +30,8 @@
         "billingAmount": {
             "amount": -1,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "A4948A7E-981F-4E70-8E27-0D4F09D96C95",
@@ -48,7 +50,8 @@
         "billingAmount": {
             "amount": 555,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "297de91c-ade1-4f31-8277-6817703ca40d",
@@ -67,7 +70,8 @@
         "billingAmount": {
             "amount": -300,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "b34015ca-42b2-4664-8c22-a2568e15bda1",
@@ -86,7 +90,8 @@
         "billingAmount": {
             "amount": -10,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "ca75c169-c5af-472a-bdcf-9ad062a9153f",
@@ -105,7 +110,8 @@
         "billingAmount": {
             "amount": -0.09,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "f95312ff-b713-468e-b07a-32ad08bf802e",
@@ -124,7 +130,8 @@
         "billingAmount": {
             "amount": -0.09,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "55803c22-ba9a-4e3b-b3ad-666c6843541f_56643",
@@ -143,7 +150,8 @@
         "billingAmount": {
             "amount": -69,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56639",
@@ -162,7 +170,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56638",
@@ -181,7 +190,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "55803c22-ba9a-4e3b-b3ad-666c6843541f_56630",
@@ -200,7 +210,8 @@
         "billingAmount": {
             "amount": -69,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56629",
@@ -219,7 +230,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56628",
@@ -238,7 +250,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "55803c22-ba9a-4e3b-b3ad-666c6843541f_56613",
@@ -257,7 +270,8 @@
         "billingAmount": {
             "amount": -69,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56611",
@@ -276,7 +290,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56610",
@@ -295,7 +310,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56609",
@@ -314,7 +330,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56608",
@@ -333,7 +350,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "e8010c77-1614-4f3b-9ea8-d6c1b2143d23_56607",
@@ -352,7 +370,8 @@
         "billingAmount": {
             "amount": -9,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "adc18347-5fcb-4c25-988d-dfbe5f250e0c",
@@ -371,7 +390,8 @@
         "billingAmount": {
             "amount": -450,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "59287ddc-e24c-444d-b056-c8eac164b560",
@@ -387,7 +407,8 @@
         "billingAmount": {
             "amount": -1,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "56363ada-803c-4dd4-93ca-5d6ba8d1d793",
@@ -406,7 +427,8 @@
         "billingAmount": {
             "amount": 1.67,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "4cfe0e79-3fc7-4b58-b8b4-6ad8c832fb41",
@@ -425,7 +447,8 @@
         "billingAmount": {
             "amount": -745,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "16b81577-e506-4ee9-93cb-4d3212f04870",
@@ -441,7 +464,8 @@
         "billingAmount": {
             "amount": -1,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     },
     {
         "id": "6df937a3-6694-4b3c-8c73-8079881e06cb",
@@ -460,6 +484,7 @@
         "billingAmount": {
             "amount": -500,
             "currency": "DKK"
-        }
+        },
+        "binIcon": "https://p1.hiclipart.com/preview/435/6/410/free-144-minimal-icons-package-trash-can-png-icon.jpg"
     }
 ]
