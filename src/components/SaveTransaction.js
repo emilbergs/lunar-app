@@ -1,10 +1,12 @@
 import React from 'react';
 
+//Mit forsøg på at kunne slette transaktioner
+
 const SaveTransaction = ({ data, flagged }) => {
     const saveTrans = flagged.map(id => {
-        const { binIcon } = data[id]
+        const { localizableTitle } = data[id]
         return (
-            <div key={id} className="deleteItem">{binIcon}</div>
+            <div key={id} className="deleteItem">{localizableTitle}</div>
         )
     })
     return (
